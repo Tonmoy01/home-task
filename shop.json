@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mens Full Hand T-Shirt",
+    "price": "500.00",
+    "imgURL": "images/1.jpg"
+  },
+  {
+    "name": "Mens Jacket",
+    "price": "1500.00",
+    "imgURL": "images/2.jpg"
+  },
+  {
+    "name": "Mens Stylish Shirt",
+    "price": "800.80",
+    "imgURL": "images/3.jpg"
+  },
+  {
+    "name": "Mens Red Color T-Shirt",
+    "price": "250.50",
+    "imgURL": "images/4.jpg"
+  }
+]
